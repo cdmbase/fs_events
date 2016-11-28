@@ -1,6 +1,6 @@
 {
   "name": "fs_events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"A small library providing fs_events constants\"",
   "main": "index.js",
   "scripts": {
